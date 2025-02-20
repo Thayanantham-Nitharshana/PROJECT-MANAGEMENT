@@ -1,4 +1,7 @@
 # PROJECT-MANAGEMENT
+
+I have created a sample project management report to enhance my knowledge in project management. This report will also be useful for students studying project management.
+
 1. Introduction
 
 This report outlines the project management tasks undertaken for a sample project. It includes planning, execution, monitoring, and completion phases to ensure successful project delivery within scope, time, and budget constraints.
@@ -63,4 +66,4 @@ https://github.com/Thayanantham-Nitharshana/PROJECT-MANAGEMENT/blob/main/WBS.xls
 
 8. Conclusion
    
-This report contain project management tasks executed ensured a structured and successful completion of this Sample Project. Effective planning, execution, and monitoring contributed to achieving the objectives efficiently. Future projects will incorporate insights gained from this experience to enhance performance and mitigate challenges.
+This project management tasks executed ensured a structured and successful completion of this Sample Project. Effective planning, execution, and monitoring contributed to achieving the objectives efficiently. Future projects will incorporate insights gained from this experience to enhance performance and mitigate challenges.
