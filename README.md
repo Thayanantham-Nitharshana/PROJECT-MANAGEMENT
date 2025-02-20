@@ -1,5 +1,6 @@
 # PROJECT-MANAGEMENT
-1. Introduction This report outlines the project management tasks undertaken for a sample project. It includes planning, execution, monitoring, and completion phases to ensure successful project delivery within scope, time, and budget constraints.
+1. Introduction
+This report outlines the project management tasks undertaken for a sample project. It includes planning, execution, monitoring, and completion phases to ensure successful project delivery within scope, time, and budget constraints.
 
 2. Project Objectives
 
